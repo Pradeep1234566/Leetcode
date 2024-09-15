@@ -12,20 +12,8 @@ class Solution(object):
         """
         if not root:
             return 0
-        max = 0
-        count = 1
-        cur = root
-        while cur.left!= None:
-            count += 1
-            cur = cur.left
-        cur = root
-        max = count
-        count = 1
-        while cur.right!= None:
-            count += 1
-            cur = cur.right
-        if max > count:
-            return max
-        else:
-            return count
-            
+        
+
+        left = self.maxDepth(root.left)
+        right = self.maxDepth(root.right)
+        return 1 + max(left, right)
