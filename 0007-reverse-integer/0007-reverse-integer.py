@@ -19,6 +19,8 @@ class Solution(object):
             k = (10**i) * answer[i]
             total += k
         # print(total)
+        if total < -2**31 or total > 2**31 - 1:
+            return 0
         if key == 1:
             return (-1) * total
         else:
