@@ -1,25 +1,26 @@
 class Solution(object):
-    def recursion(self, index, N, nums, memo):
-        # Base case: If we reach or exceed the last index
-        if index >= N - 1:
-            return 0  # No more jumps needed if we are at or beyond the last index
-        
-        if index in memo:  # Return memoized result if available
-            return memo[index]
-        
-        minimum = float('inf')
-        # Try all possible jumps from the current index
-        for i in range(1, nums[index] + 1):
-            minimum = min(minimum, 1 + self.recursion(index + i, N, nums, memo))
-        
-        memo[index] = minimum  # Store the result in memo
-        return memo[index]
-    
     def jump(self, nums):
         """
         :type nums: List[int]
         :rtype: int
         """
+        right = 0  # Current range end
+        jumps = 0  # Count of jumps
+        left = 0   # Start of the current range
+        
         N = len(nums)
-        memo = {}
-        return self.recursion(0, N, nums, memo)
+        
+        while right < N - 1:
+            farthest = 0
+            # Iterate over the current range [left, right]
+            for i in range(left, right + 1):  # `right + 1` to include the right boundary
+                farthest = max(farthest, i + nums[i])  # Find the farthest reachable index
+            
+            # Update the range for the next jump
+            left = right + 1
+            right = farthest
+            
+            # Increment the jump count
+            jumps += 1
+        
+        return jumps
