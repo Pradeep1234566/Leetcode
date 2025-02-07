@@ -6,6 +6,7 @@ and python
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0027-remove-element) |
 | [0952-word-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0952-word-subsets) |
 ## Hash Table
 |  |
@@ -25,4 +26,8 @@ and python
 |  |
 | ------- |
 | [1502-construct-k-palindrome-strings](https://github.com/Pradeep1234566/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
