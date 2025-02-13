@@ -40,4 +40,12 @@ and python
 |  |
 | ------- |
 | [3447-clear-digits](https://github.com/Pradeep1234566/Leetcode/tree/master/3447-clear-digits) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Pradeep1234566/Leetcode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Pradeep1234566/Leetcode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
