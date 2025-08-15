@@ -7,13 +7,15 @@
 class Solution(object):
     def maxDepth(self, root):
         """
-        :type root: TreeNode
+        :type root: Optional[TreeNode]
         :rtype: int
         """
-        if not root:
+        if root is None:
             return 0
         
+        left_height = self.maxDepth(root.left)
+        right_height = self.maxDepth(root.right)
+        return 1 + max(left_height, right_height)
 
-        left = self.maxDepth(root.left)
-        right = self.maxDepth(root.right)
-        return 1 + max(left, right)
+
+        
