@@ -7,14 +7,19 @@
 class Solution(object):
     def postorderTraversal(self, root):
         """
-        :type root: TreeNode
+        :type root: Optional[TreeNode]
         :rtype: List[int]
         """
         if root is None:
             return []
-        answer = []
-        answer += self.postorderTraversal(root.left)
-        answer += self.postorderTraversal(root.right)
-        answer.append(root.val)
-        return answer
-        
+        stack  = [root]
+        result = []
+        while stack:
+            current = stack.pop()
+            result.append(current.val)
+            if current.left:
+                stack.append(current.left)
+            if current.right:
+                stack.append(current.right)
+            
+        return result[::-1]
