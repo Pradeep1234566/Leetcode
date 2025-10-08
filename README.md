@@ -7,6 +7,7 @@ and python
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0039-combination-sum) |
 | [0952-word-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0952-word-subsets) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Pradeep1234566/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Hash Table
@@ -106,4 +107,5 @@ and python
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pradeep1234566/Leetcode/tree/master/0022-generate-parentheses) |
+| [0039-combination-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
