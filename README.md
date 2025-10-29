@@ -6,6 +6,7 @@ and python
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -36,6 +37,7 @@ and python
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0011-container-with-most-water) |
 | [1448-maximum-69-number](https://github.com/Pradeep1234566/Leetcode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pradeep1234566/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Pradeep1234566/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -46,6 +48,7 @@ and python
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0027-remove-element) |
 ## Stack
 |  |
