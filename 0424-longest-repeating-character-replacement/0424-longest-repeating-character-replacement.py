@@ -5,33 +5,26 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        left = 0
-        right = 0
-        n = len(s)
-        max_length = 0
         freq = {}
-        max_freq = 0  # Tracks the highest frequency of any character in the current window
+        max_length = 0
+        max_freq = 0
+        left = 0
+        N = len(s)
 
-        while right < n:
-            # Update the frequency of the current character
-            if s[right] not in freq:
-                freq[s[right]] = 1
+        for i in range(N):
+            if s[i] not in freq:
+                freq[s[i]] = 1
             else:
-                freq[s[right]] += 1
-
-            # Update the max frequency character in the window
-            max_freq = max(max_freq, freq[s[right]])
-
-            length = right - left + 1  # Current window size
+                freq[s[i]] += 1
             
-            # If the number of characters to replace exceeds k, shrink the window
-            if length - max_freq > k:
+            max_freq = max(max_freq, freq.get(s[i]))
+
+            while (i-left+1) - max_freq > k:
                 freq[s[left]] -= 1
-                left += 1  # Shrink the window from the left
-
-            # Update the maximum valid window length
-            max_length = max(max_length, right - left + 1)
+                left += 1
             
-            right += 1
-
+            max_length = max(max_length, i-left+1)
+        
         return max_length
+            
+        
