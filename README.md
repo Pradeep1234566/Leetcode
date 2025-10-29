@@ -21,6 +21,7 @@ and python
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pradeep1234566/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pradeep1234566/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0952-word-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pradeep1234566/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Pradeep1234566/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -32,6 +33,7 @@ and python
 | [0058-length-of-last-word](https://github.com/Pradeep1234566/Leetcode/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/Pradeep1234566/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Pradeep1234566/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0424-longest-repeating-character-replacement](https://github.com/Pradeep1234566/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0952-word-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pradeep1234566/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [3447-clear-digits](https://github.com/Pradeep1234566/Leetcode/tree/master/3447-clear-digits) |
@@ -142,4 +144,8 @@ and python
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0042-trapping-rain-water) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Pradeep1234566/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
