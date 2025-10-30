@@ -81,6 +81,7 @@ and python
 | [0110-balanced-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -89,6 +90,7 @@ and python
 | [0110-balanced-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -96,10 +98,12 @@ and python
 | [0110-balanced-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
 | ------- |
