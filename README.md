@@ -15,6 +15,7 @@ and python
 | [0079-word-search](https://github.com/Pradeep1234566/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Pradeep1234566/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0654-maximum-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0952-word-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0952-word-subsets) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Pradeep1234566/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pradeep1234566/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -62,6 +63,7 @@ and python
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [3447-clear-digits](https://github.com/Pradeep1234566/Leetcode/tree/master/3447-clear-digits) |
 ## Simulation
 |  |
@@ -87,6 +89,7 @@ and python
 | [0257-binary-tree-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Pradeep1234566/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0654-maximum-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -110,6 +113,7 @@ and python
 | [0257-binary-tree-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Pradeep1234566/Leetcode/tree/master/0563-binary-tree-tilt) |
+| [0654-maximum-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -163,8 +167,13 @@ and python
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0654-maximum-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0654-maximum-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Pradeep1234566/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0654-maximum-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0654-maximum-binary-tree) |
 <!---LeetCode Topics End-->
