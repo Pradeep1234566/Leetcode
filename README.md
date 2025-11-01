@@ -85,6 +85,7 @@ and python
 | [0101-symmetric-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -99,6 +100,7 @@ and python
 | [0101-symmetric-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -111,6 +113,7 @@ and python
 | [0101-symmetric-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0543-diameter-of-binary-tree) |
@@ -148,6 +151,7 @@ and python
 | ------- |
 | [0022-generate-parentheses](https://github.com/Pradeep1234566/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Pradeep1234566/Leetcode/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
