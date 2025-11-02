@@ -108,6 +108,7 @@ and python
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Pradeep1234566/Leetcode/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Pradeep1234566/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -134,6 +135,7 @@ and python
 | ------- |
 | [0101-symmetric-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Pradeep1234566/Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Math
@@ -205,4 +207,12 @@ and python
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Pradeep1234566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Pradeep1234566/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Pradeep1234566/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
