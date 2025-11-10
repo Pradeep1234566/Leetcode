@@ -22,6 +22,7 @@ and python
 | [0733-flood-fill](https://github.com/Pradeep1234566/Leetcode/tree/master/0733-flood-fill) |
 | [0952-word-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0952-word-subsets) |
 | [1073-number-of-enclaves](https://github.com/Pradeep1234566/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Pradeep1234566/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pradeep1234566/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
@@ -162,6 +163,7 @@ and python
 | [0801-is-graph-bipartite](https://github.com/Pradeep1234566/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Pradeep1234566/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Pradeep1234566/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Math
 |  |
@@ -213,6 +215,7 @@ and python
 | [0542-01-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Pradeep1234566/Leetcode/tree/master/0733-flood-fill) |
 | [1073-number-of-enclaves](https://github.com/Pradeep1234566/Leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Monotonic Stack
 |  |
 | ------- |
