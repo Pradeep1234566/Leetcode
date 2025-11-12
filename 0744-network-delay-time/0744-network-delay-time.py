@@ -15,8 +15,7 @@ class Solution(object):
         while heap:
             time, node = heapq.heappop(heap)
             # Skip if we already found a better route
-            if time > distance[node]:
-                continue
+           
 
             for neighbour, weight in graph[node]:
                 if distance[neighbour] > time + weight:
