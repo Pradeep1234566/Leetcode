@@ -20,6 +20,7 @@ and python
 | [0216-combination-sum-iii](https://github.com/Pradeep1234566/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0542-01-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/0542-01-matrix) |
 | [0654-maximum-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0654-maximum-binary-tree) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Pradeep1234566/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Pradeep1234566/Leetcode/tree/master/0733-flood-fill) |
 | [0952-word-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0952-word-subsets) |
 | [1073-number-of-enclaves](https://github.com/Pradeep1234566/Leetcode/tree/master/1073-number-of-enclaves) |
