@@ -14,6 +14,7 @@ and python
 | [0042-trapping-rain-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Pradeep1234566/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Pradeep1234566/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pradeep1234566/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Pradeep1234566/Leetcode/tree/master/0130-surrounded-regions) |
@@ -188,6 +189,7 @@ and python
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Pradeep1234566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Pradeep1234566/Leetcode/tree/master/0342-power-of-four) |
@@ -220,6 +222,7 @@ and python
 | [0040-combination-sum-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Pradeep1234566/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Pradeep1234566/Leetcode/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pradeep1234566/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Pradeep1234566/Leetcode/tree/master/0131-palindrome-partitioning) |
