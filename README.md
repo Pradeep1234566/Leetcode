@@ -59,6 +59,7 @@ and python
 | [0257-binary-tree-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pradeep1234566/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0952-word-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0952-word-subsets) |
+| [1143-longest-common-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pradeep1234566/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [3447-clear-digits](https://github.com/Pradeep1234566/Leetcode/tree/master/3447-clear-digits) |
 ## Greedy
@@ -224,6 +225,7 @@ and python
 | [0518-coin-change-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Pradeep1234566/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1143-longest-common-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
