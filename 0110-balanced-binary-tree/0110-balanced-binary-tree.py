@@ -6,18 +6,15 @@ class Solution(object):
         left_height = self.check(root.left)
         right_height = self.check(root.right)
 
-        
-        if left_height == -1:
+        if left_height == -1 or right_height == -1:
             return -1
-        
-        if right_height == -1:
+
+        difference = abs(left_height - right_height)
+        if difference > 1:
             return -1
-        
-        if abs(left_height-right_height) > 1:
-            return -1
-        
+
         return 1 + max(left_height, right_height)
-    
+
     def isBalanced(self, root):
         return self.check(root) != -1
     
