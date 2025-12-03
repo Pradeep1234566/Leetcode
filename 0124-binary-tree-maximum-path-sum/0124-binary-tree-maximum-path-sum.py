@@ -1,32 +1,20 @@
-# Definition for a binary tree node.
-# class TreeNode(object):
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
 class Solution(object):
+    def helper(self, root, answer):
+        if root is None:
+            return 0
+        
+        # if the value goes less than zero we drop that
+        left_sum = max(0, self.helper(root.left, answer))
+        right_sum = max(0, self.helper(root.right, answer))
+
+        # max path through current node
+        total_sum = root.val + left_sum + right_sum
+        answer[0] = max(answer[0], total_sum)
+
+        # return best path going UP
+        return root.val + max(left_sum, right_sum)
+
     def maxPathSum(self, root):
-        """
-        :type root: Optional[TreeNode]
-        :rtype: int
-        """
-        self.maximum = float('-inf')
-        def helper(root):
-
-            if root is None:
-                return 0
-        
-            left = max(0, helper(root.left))
-            right = max(0, helper(root.right))
-
-            path_sum = left + right + root.val
-
-            self.maximum = max(self.maximum, path_sum)
-
-            return root.val + max(left, right)
-        
-        helper(root)
-        return self.maximum
-
-        
-        
+        answer = [float('-inf')]
+        self.helper(root, answer)
+        return answer[0]
