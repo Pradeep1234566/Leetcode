@@ -62,6 +62,7 @@ and python
 | [0952-word-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0952-word-subsets) |
 | [1092-shortest-common-supersequence](https://github.com/Pradeep1234566/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pradeep1234566/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pradeep1234566/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [3447-clear-digits](https://github.com/Pradeep1234566/Leetcode/tree/master/3447-clear-digits) |
 ## Greedy
@@ -230,6 +231,7 @@ and python
 | [0803-cheapest-flights-within-k-stops](https://github.com/Pradeep1234566/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1092-shortest-common-supersequence](https://github.com/Pradeep1234566/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pradeep1234566/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Backtracking
 |  |
 | ------- |
