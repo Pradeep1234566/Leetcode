@@ -18,6 +18,7 @@ and python
 | [0079-word-search](https://github.com/Pradeep1234566/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Pradeep1234566/Leetcode/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Pradeep1234566/Leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Pradeep1234566/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Pradeep1234566/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/Pradeep1234566/Leetcode/tree/master/0322-coin-change) |
@@ -212,6 +213,7 @@ and python
 | ------- |
 | [0078-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Pradeep1234566/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Pradeep1234566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Pradeep1234566/Leetcode/tree/master/0342-power-of-four) |
 ## Sorting
