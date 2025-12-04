@@ -14,6 +14,7 @@ and python
 | [0040-combination-sum-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Pradeep1234566/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Pradeep1234566/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Pradeep1234566/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Pradeep1234566/Leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0078-subsets) |
@@ -214,6 +215,7 @@ and python
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pradeep1234566/Leetcode/tree/master/0048-rotate-image) |
 | [0342-power-of-four](https://github.com/Pradeep1234566/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Pradeep1234566/Leetcode/tree/master/1448-maximum-69-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pradeep1234566/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -275,6 +277,7 @@ and python
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Pradeep1234566/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/Pradeep1234566/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Pradeep1234566/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradeep1234566/Leetcode/tree/master/0200-number-of-islands) |
