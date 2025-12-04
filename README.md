@@ -63,6 +63,7 @@ and python
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pradeep1234566/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pradeep1234566/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Pradeep1234566/Leetcode/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/Pradeep1234566/Leetcode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Pradeep1234566/Leetcode/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Pradeep1234566/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Pradeep1234566/Leetcode/tree/master/0127-word-ladder) |
@@ -246,6 +247,7 @@ and python
 | [0022-generate-parentheses](https://github.com/Pradeep1234566/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Pradeep1234566/Leetcode/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/Pradeep1234566/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Pradeep1234566/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Pradeep1234566/Leetcode/tree/master/0131-palindrome-partitioning) |
