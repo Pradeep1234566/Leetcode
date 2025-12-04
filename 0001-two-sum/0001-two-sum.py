@@ -1,26 +1,25 @@
 class Solution(object):
     def twoSum(self, nums, target):
-        self.x = nums
-        self.y = target
-        n = len(self.x)
-        a = []
-        key = 0
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        indexs = {}
+
+      
+        n = len(nums)
+
+        for i in range(n):
+            indexs[nums[i]] = i
         
         for i in range(n):
-            for j in range(i+1,n):
-                if(self.x[i] + self.x[j] == self.y):
-                    a.append(i)
-                    a.append(j)
-                    key = 1
-                    break
-            
-        if key == 1:
-            return a
-        else:
-            return 0
-                
-                
-                
-                
-                    
-                    
+            difference = target - nums[i]
+            if difference in indexs and indexs[difference] != i:
+                return [i, indexs[difference]]
+                break
+        
+        return []
+        
+        
+        
