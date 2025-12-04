@@ -10,8 +10,10 @@ class Solution(object):
         
         # String consumed but pattern left
         if i == 0:
-            # Valid only if remaining pattern is all '*'
-            return all(x == '*' for x in p[:j])
+            for ch in p[:j]:
+                if ch != '*':
+                    return False
+            return True
 
         if dp[i][j] != -1:
             return dp[i][j]
