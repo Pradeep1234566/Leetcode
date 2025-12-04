@@ -1,27 +1,31 @@
 class Solution(object):
-    def recurse(self, total, n, nums):
-        if total == 0:
+    def helper(self, nums, target, n, dp):
+        if target == 0:
             return True
-        if n < 0 or total < 0:
+
+        if n == 0:
             return False
         
+        if dp[n][target] != -1:
+            return dp[n][target]
         
-        if nums[n] <= total:
-            include = self.recurse(total - nums[n], n - 1, nums)
-            exclude = self.recurse(total, n - 1, nums)
-            return include or exclude
-        
-        
+        if target >= nums[n-1]:
+            dp[n][target] = (self.helper(nums, target-nums[n-1], n-1, dp)or self.helper(nums, target, n-1, dp))
         else:
-            return self.recurse(total, n - 1, nums)
+
+            dp[n][target] = self.helper(nums, target, n-1, dp)
+
+        return dp[n][target]
 
     def canPartition(self, nums):
         total = sum(nums)
-        
         if total % 2 != 0:
             return False
+
+        target = total // 2
+        n = len(nums)
         
-        partition_sum = total // 2
-        n = len(nums) - 1
-        
-        return self.recurse(partition_sum, n, nums)
+
+        dp = [[-1] * (target+1) for _ in range(n+1)]
+
+        return self.helper(nums, target, n, dp)
