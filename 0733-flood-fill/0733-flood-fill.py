@@ -1,22 +1,22 @@
 from collections import deque
 
 class Solution(object):
+    def dfs(self, image, sr, sc, color, rows, columns, old_color):
 
-    def dfs(self, image, queue, r, c, Rows, Columns, old_color, new_color):
-        image[r][c] = new_color
+        if sr < 0 or sc <0 or sr>=rows or sc>=columns:
+            return 
         
-        directions = [(0,1), (1,0), (-1,0), (0,-1)]
+        if image[sr][sc] != old_color:
+            return 
+    
+        image[sr][sc] = color
+        
+        self.dfs(image, sr+1, sc, color, rows, columns, old_color)
+        self.dfs(image, sr-1, sc, color, rows, columns, old_color)
+        self.dfs(image, sr, sc+1, color, rows, columns, old_color)
+        self.dfs(image, sr, sc-1, color, rows, columns, old_color)
 
-        while queue:
-            r, c = queue.popleft()
-            for dr, dc in directions:
-                nr = r + dr
-                nc = c + dc
-                if (0 <= nr < Rows) and (0 <= nc < Columns) and image[nr][nc] == old_color:
-                    image[nr][nc] = new_color
-                    queue.append((nr, nc))
-            
-
+    
     def floodFill(self, image, sr, sc, color):
         """
         :type image: List[List[int]]
@@ -25,16 +25,14 @@ class Solution(object):
         :type color: int
         :rtype: List[List[int]]
         """
-        from collections import deque
         old_color = image[sr][sc]
-        if old_color == color:  
+
+        if old_color == color:
             return image
+        
+        rows = len(image)
+        columns = len(image[0])
 
-        queue = deque([(sr, sc)])
-        row = len(image)
-        column = len(image[0])
-        image[sr][sc] = color
-
-        self.dfs(image, queue, sr, sc, row, column, old_color, color)
+        self.dfs(image, sr, sc, color, rows, columns, old_color)
 
         return image
