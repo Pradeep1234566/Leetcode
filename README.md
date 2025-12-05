@@ -223,6 +223,7 @@ and python
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Pradeep1234566/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0062-unique-paths) |
 | [0342-power-of-four](https://github.com/Pradeep1234566/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Pradeep1234566/Leetcode/tree/master/1448-maximum-69-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pradeep1234566/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -253,6 +254,7 @@ and python
 | [0042-trapping-rain-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Pradeep1234566/Leetcode/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Pradeep1234566/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/Pradeep1234566/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Pradeep1234566/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -352,4 +354,8 @@ and python
 | ------- |
 | [0744-network-delay-time](https://github.com/Pradeep1234566/Leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Pradeep1234566/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
