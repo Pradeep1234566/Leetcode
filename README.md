@@ -42,6 +42,7 @@ and python
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Pradeep1234566/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradeep1234566/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pradeep1234566/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pradeep1234566/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pradeep1234566/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Pradeep1234566/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -272,6 +273,7 @@ and python
 | [1092-shortest-common-supersequence](https://github.com/Pradeep1234566/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pradeep1234566/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pradeep1234566/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Backtracking
 |  |
 | ------- |
@@ -346,6 +348,7 @@ and python
 | [0801-is-graph-bipartite](https://github.com/Pradeep1234566/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Pradeep1234566/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Pradeep1234566/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pradeep1234566/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Topological Sort
 |  |
 | ------- |
