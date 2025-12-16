@@ -23,6 +23,7 @@ and python
 | [0078-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pradeep1234566/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/Pradeep1234566/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Pradeep1234566/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Pradeep1234566/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Pradeep1234566/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -270,6 +271,7 @@ and python
 | [0064-minimum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Pradeep1234566/Leetcode/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Pradeep1234566/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/Pradeep1234566/Leetcode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Pradeep1234566/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Pradeep1234566/Leetcode/tree/master/0152-maximum-product-subarray) |
