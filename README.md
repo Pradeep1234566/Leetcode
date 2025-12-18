@@ -8,6 +8,7 @@ and python
 | ------- |
 | [0001-two-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Pradeep1234566/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeep1234566/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0039-combination-sum) |
@@ -108,6 +109,7 @@ and python
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Pradeep1234566/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeep1234566/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -252,6 +254,7 @@ and python
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Pradeep1234566/Leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Pradeep1234566/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0169-majority-element) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pradeep1234566/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
