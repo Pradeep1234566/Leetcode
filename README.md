@@ -11,6 +11,7 @@ and python
 | [0016-3sum-closest](https://github.com/Pradeep1234566/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeep1234566/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Pradeep1234566/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -61,6 +62,7 @@ and python
 | ------- |
 | [0001-two-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pradeep1234566/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/Pradeep1234566/Leetcode/tree/master/0036-valid-sudoku) |
 | [0127-word-ladder](https://github.com/Pradeep1234566/Leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pradeep1234566/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -316,6 +318,7 @@ and python
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Pradeep1234566/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Pradeep1234566/Leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0064-minimum-path-sum) |
