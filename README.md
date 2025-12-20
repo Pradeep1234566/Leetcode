@@ -17,6 +17,7 @@ and python
 | [0041-first-missing-positive](https://github.com/Pradeep1234566/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Pradeep1234566/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Pradeep1234566/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Pradeep1234566/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Pradeep1234566/Leetcode/tree/master/0053-maximum-subarray) |
@@ -261,6 +262,7 @@ and python
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Pradeep1234566/Leetcode/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Pradeep1234566/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0169-majority-element) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pradeep1234566/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -309,6 +311,7 @@ and python
 | [0039-combination-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Pradeep1234566/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Pradeep1234566/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pradeep1234566/Leetcode/tree/master/0079-word-search) |
