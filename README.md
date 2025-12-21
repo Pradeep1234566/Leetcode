@@ -28,6 +28,7 @@ and python
 | [0078-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pradeep1234566/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Pradeep1234566/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeep1234566/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -378,6 +379,7 @@ and python
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Pradeep1234566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0875-koko-eating-bananas](https://github.com/Pradeep1234566/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Union Find
