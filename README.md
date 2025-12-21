@@ -51,6 +51,7 @@ and python
 | [0994-rotting-oranges](https://github.com/Pradeep1234566/Leetcode/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Pradeep1234566/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1470-shuffle-the-array](https://github.com/Pradeep1234566/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Pradeep1234566/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradeep1234566/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
