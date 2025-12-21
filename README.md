@@ -38,6 +38,7 @@ and python
 | [0238-product-of-array-except-self](https://github.com/Pradeep1234566/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/Pradeep1234566/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pradeep1234566/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Pradeep1234566/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0518-coin-change-ii) |
@@ -73,6 +74,7 @@ and python
 | [0127-word-ladder](https://github.com/Pradeep1234566/Leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pradeep1234566/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pradeep1234566/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pradeep1234566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Pradeep1234566/Leetcode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0952-word-subsets) |
