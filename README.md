@@ -55,6 +55,7 @@ and python
 | [1657-find-the-winner-of-an-array-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradeep1234566/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pradeep1234566/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+| [1929-concatenation-of-array](https://github.com/Pradeep1234566/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pradeep1234566/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pradeep1234566/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Pradeep1234566/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -133,6 +134,7 @@ and python
 |  |
 | ------- |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1929-concatenation-of-array](https://github.com/Pradeep1234566/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pradeep1234566/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pradeep1234566/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Pradeep1234566/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
