@@ -27,6 +27,7 @@ and python
 | [0073-set-matrix-zeroes](https://github.com/Pradeep1234566/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pradeep1234566/Leetcode/tree/master/0079-word-search) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Pradeep1234566/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeep1234566/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -130,6 +131,7 @@ and python
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeep1234566/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pradeep1234566/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
