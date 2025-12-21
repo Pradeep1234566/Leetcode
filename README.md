@@ -43,6 +43,7 @@ and python
 | [0518-coin-change-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Pradeep1234566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Pradeep1234566/Leetcode/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0654-maximum-binary-tree) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Pradeep1234566/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Pradeep1234566/Leetcode/tree/master/0733-flood-fill) |
@@ -72,6 +73,7 @@ and python
 | [0169-majority-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pradeep1234566/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Pradeep1234566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Pradeep1234566/Leetcode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pradeep1234566/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pradeep1234566/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -261,6 +263,7 @@ and python
 | [0136-single-number](https://github.com/Pradeep1234566/Leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Pradeep1234566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Pradeep1234566/Leetcode/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/Pradeep1234566/Leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -268,6 +271,7 @@ and python
 | [0047-permutations-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Pradeep1234566/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/Pradeep1234566/Leetcode/tree/master/0645-set-mismatch) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pradeep1234566/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Pradeep1234566/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Heap (Priority Queue)
