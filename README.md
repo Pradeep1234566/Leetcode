@@ -39,6 +39,7 @@ and python
 | [0200-number-of-islands](https://github.com/Pradeep1234566/Leetcode/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/Pradeep1234566/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0238-product-of-array-except-self](https://github.com/Pradeep1234566/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0300-longest-increasing-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pradeep1234566/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pradeep1234566/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -319,6 +320,7 @@ and python
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Pradeep1234566/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Pradeep1234566/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pradeep1234566/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0494-target-sum) |
@@ -393,6 +395,7 @@ and python
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Pradeep1234566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0300-longest-increasing-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/Pradeep1234566/Leetcode/tree/master/0875-koko-eating-bananas) |
 ## Union Find
 |  |
