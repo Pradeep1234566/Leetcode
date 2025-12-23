@@ -169,6 +169,7 @@ and python
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Pradeep1234566/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -218,6 +219,7 @@ and python
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Pradeep1234566/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -264,6 +266,7 @@ and python
 | ------- |
 | [0048-rotate-image](https://github.com/Pradeep1234566/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/Pradeep1234566/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0342-power-of-four](https://github.com/Pradeep1234566/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Pradeep1234566/Leetcode/tree/master/1448-maximum-69-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pradeep1234566/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -307,6 +310,7 @@ and python
 | [0072-edit-distance](https://github.com/Pradeep1234566/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Pradeep1234566/Leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Pradeep1234566/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Pradeep1234566/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Pradeep1234566/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pradeep1234566/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -431,6 +435,7 @@ and python
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Pradeep1234566/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Counting Sort
 |  |
