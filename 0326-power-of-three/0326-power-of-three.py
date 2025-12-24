@@ -4,13 +4,10 @@ class Solution(object):
         :type n: int
         :rtype: bool
         """
-        if n == 0 or n % 2 == 0:
+        if n <= 0 or n % 2 == 0 :
             return False
         
-        while n:
-            if n == 1:
-                break 
-                
+        while n>1:
             remainder = n % 3
             if remainder != 0:
                 return False
