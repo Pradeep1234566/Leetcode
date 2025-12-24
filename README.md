@@ -173,6 +173,7 @@ and python
 | [0203-remove-linked-list-elements](https://github.com/Pradeep1234566/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0326-power-of-three](https://github.com/Pradeep1234566/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pradeep1234566/Leetcode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/Pradeep1234566/Leetcode/tree/master/0390-elimination-game) |
 ## Tree
 |  |
 | ------- |
@@ -278,6 +279,7 @@ and python
 | [0096-unique-binary-search-trees](https://github.com/Pradeep1234566/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0326-power-of-three](https://github.com/Pradeep1234566/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pradeep1234566/Leetcode/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/Pradeep1234566/Leetcode/tree/master/0390-elimination-game) |
 | [1448-maximum-69-number](https://github.com/Pradeep1234566/Leetcode/tree/master/1448-maximum-69-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pradeep1234566/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
