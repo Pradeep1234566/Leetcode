@@ -171,6 +171,7 @@ and python
 | [0060-permutation-sequence](https://github.com/Pradeep1234566/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Pradeep1234566/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Pradeep1234566/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0326-power-of-three](https://github.com/Pradeep1234566/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pradeep1234566/Leetcode/tree/master/0342-power-of-four) |
 ## Tree
 |  |
@@ -275,6 +276,7 @@ and python
 | [0060-permutation-sequence](https://github.com/Pradeep1234566/Leetcode/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/Pradeep1234566/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0326-power-of-three](https://github.com/Pradeep1234566/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pradeep1234566/Leetcode/tree/master/0342-power-of-four) |
 | [1448-maximum-69-number](https://github.com/Pradeep1234566/Leetcode/tree/master/1448-maximum-69-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pradeep1234566/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
