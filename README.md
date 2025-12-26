@@ -113,6 +113,7 @@ and python
 | [1143-longest-common-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pradeep1234566/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pradeep1234566/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Pradeep1234566/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3447-clear-digits](https://github.com/Pradeep1234566/Leetcode/tree/master/3447-clear-digits) |
 ## Greedy
 |  |
@@ -446,6 +447,7 @@ and python
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pradeep1234566/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Pradeep1234566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Pradeep1234566/Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Binary Search Tree
 |  |
 | ------- |
