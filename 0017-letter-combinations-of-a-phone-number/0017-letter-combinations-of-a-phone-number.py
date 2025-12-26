@@ -7,13 +7,11 @@ class Solution(object):
         
         letters = mapping[digits[index]]
 
-        for character in letters:
-            temp.append(character)
+        for letter in letters:
+            temp.append(letter)
             self.helper(index+1, digits, mapping, result, temp)
             temp.pop()
         
-
-
     def letterCombinations(self, digits):
         """
         :type digits: str
