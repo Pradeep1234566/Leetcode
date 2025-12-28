@@ -74,6 +74,7 @@ and python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pradeep1234566/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pradeep1234566/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Pradeep1234566/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Pradeep1234566/Leetcode/tree/master/0041-first-missing-positive) |
@@ -94,6 +95,7 @@ and python
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pradeep1234566/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Pradeep1234566/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Pradeep1234566/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pradeep1234566/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
@@ -393,6 +395,7 @@ and python
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Pradeep1234566/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pradeep1234566/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
 |  |
