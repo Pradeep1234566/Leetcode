@@ -199,6 +199,7 @@ and python
 | [0222-count-complete-tree-nodes](https://github.com/Pradeep1234566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/Pradeep1234566/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Pradeep1234566/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -249,6 +250,7 @@ and python
 | [0222-count-complete-tree-nodes](https://github.com/Pradeep1234566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0450-delete-node-in-a-bst](https://github.com/Pradeep1234566/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Pradeep1234566/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -470,6 +472,7 @@ and python
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Pradeep1234566/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0450-delete-node-in-a-bst](https://github.com/Pradeep1234566/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Counting Sort
 |  |
