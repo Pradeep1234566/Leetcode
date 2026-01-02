@@ -43,6 +43,7 @@ and python
 | [0300-longest-increasing-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pradeep1234566/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Pradeep1234566/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pradeep1234566/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Pradeep1234566/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0494-target-sum) |
@@ -131,6 +132,7 @@ and python
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Pradeep1234566/Leetcode/tree/master/0044-wildcard-matching) |
+| [0435-non-overlapping-intervals](https://github.com/Pradeep1234566/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1448-maximum-69-number](https://github.com/Pradeep1234566/Leetcode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pradeep1234566/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Pradeep1234566/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -323,6 +325,7 @@ and python
 | [0047-permutations-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Pradeep1234566/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/Pradeep1234566/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/Pradeep1234566/Leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeep1234566/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pradeep1234566/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -360,6 +363,7 @@ and python
 | [0300-longest-increasing-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Pradeep1234566/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Pradeep1234566/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0518-coin-change-ii) |
