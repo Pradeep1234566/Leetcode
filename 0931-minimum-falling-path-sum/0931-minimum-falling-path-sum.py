@@ -1,15 +1,22 @@
 class Solution(object):
     def minFallingPathSum(self, matrix):
         n = len(matrix)
-        prev = matrix[0][:]
+        
+        dp = [[0] * n for _ in range(n)]
 
-        for r in range(1, n):
-            curr = [float('inf')] * n
-            for c in range(n):
-                for dc in (-1, 0, 1):
-                    pc = c + dc
-                    if 0 <= pc < n:
-                        curr[c] = min(curr[c], prev[pc] + matrix[r][c])
-            prev = curr
+        # base case: first row
+        for col in range(n):
+            dp[0][col] = matrix[0][col]
 
-        return min(prev)
+        # fill dp table row by row
+        for row in range(1, n):
+            for col in range(n):
+                best = dp[row - 1][col]
+                if col > 0:
+                    best = min(best, dp[row - 1][col - 1])
+                if col < n - 1:
+                    best = min(best, dp[row - 1][col + 1])
+                
+                dp[row][col] = matrix[row][col] + best
+
+        return min(dp[n - 1])
