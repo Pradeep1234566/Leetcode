@@ -54,6 +54,7 @@ and python
 | [0717-1-bit-and-2-bit-characters](https://github.com/Pradeep1234566/Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/Pradeep1234566/Leetcode/tree/master/0733-flood-fill) |
 | [0875-koko-eating-bananas](https://github.com/Pradeep1234566/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0931-minimum-falling-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0952-word-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Pradeep1234566/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0994-rotting-oranges](https://github.com/Pradeep1234566/Leetcode/tree/master/0994-rotting-oranges) |
@@ -365,6 +366,7 @@ and python
 | [0542-01-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pradeep1234566/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Pradeep1234566/Leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/Pradeep1234566/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pradeep1234566/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -401,6 +403,7 @@ and python
 | [0200-number-of-islands](https://github.com/Pradeep1234566/Leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Pradeep1234566/Leetcode/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Pradeep1234566/Leetcode/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Pradeep1234566/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
