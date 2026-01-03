@@ -374,6 +374,7 @@ and python
 | [1092-shortest-common-supersequence](https://github.com/Pradeep1234566/Leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pradeep1234566/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Pradeep1234566/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pradeep1234566/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Backtracking
 |  |
