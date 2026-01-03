@@ -1,5 +1,4 @@
-This Repository contains LEETCODE solved Problems in C language
-and python
+This Repository contains LEETCODE solved Problems in  python
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
