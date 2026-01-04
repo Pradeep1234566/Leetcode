@@ -199,6 +199,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -223,6 +224,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0101-symmetric-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Pradeep1234566/Leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -256,6 +258,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -278,6 +281,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0101-symmetric-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pradeep1234566/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Pradeep1234566/Leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Pradeep1234566/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Pradeep1234566/Leetcode/tree/master/0200-number-of-islands) |
