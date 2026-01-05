@@ -69,6 +69,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradeep1234566/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pradeep1234566/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/Pradeep1234566/Leetcode/tree/master/1929-concatenation-of-array) |
+| [1975-maximum-matrix-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pradeep1234566/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pradeep1234566/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Pradeep1234566/Leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -135,6 +136,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0435-non-overlapping-intervals](https://github.com/Pradeep1234566/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1448-maximum-69-number](https://github.com/Pradeep1234566/Leetcode/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pradeep1234566/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1975-maximum-matrix-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Pradeep1234566/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting
 |  |
@@ -427,6 +429,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [1073-number-of-enclaves](https://github.com/Pradeep1234566/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1975-maximum-matrix-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/1975-maximum-matrix-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
