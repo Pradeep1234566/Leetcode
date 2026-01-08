@@ -63,6 +63,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeep1234566/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Pradeep1234566/Leetcode/tree/master/1390-four-divisors) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Pradeep1234566/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1470-shuffle-the-array](https://github.com/Pradeep1234566/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Pradeep1234566/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
@@ -396,6 +397,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [1143-longest-common-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pradeep1234566/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Pradeep1234566/Leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Pradeep1234566/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pradeep1234566/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Backtracking
 |  |
