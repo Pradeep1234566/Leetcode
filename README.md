@@ -215,6 +215,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Pradeep1234566/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Pradeep1234566/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -247,6 +248,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Pradeep1234566/Leetcode/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Pradeep1234566/Leetcode/tree/master/0563-binary-tree-tilt) |
@@ -284,6 +286,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/Pradeep1234566/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Pradeep1234566/Leetcode/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0572-subtree-of-another-tree) |
@@ -526,6 +529,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Pradeep1234566/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Pradeep1234566/Leetcode/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pradeep1234566/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Counting Sort
 |  |
