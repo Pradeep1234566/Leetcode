@@ -61,6 +61,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0994-rotting-oranges](https://github.com/Pradeep1234566/Leetcode/tree/master/0994-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Pradeep1234566/Leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Pradeep1234566/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeep1234566/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Pradeep1234566/Leetcode/tree/master/1390-four-divisors) |
@@ -339,6 +340,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0326-power-of-three](https://github.com/Pradeep1234566/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pradeep1234566/Leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Pradeep1234566/Leetcode/tree/master/0390-elimination-game) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Pradeep1234566/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Pradeep1234566/Leetcode/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/Pradeep1234566/Leetcode/tree/master/1448-maximum-69-number) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pradeep1234566/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -542,4 +544,8 @@ This Repository contains LEETCODE solved Problems in  python
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pradeep1234566/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Pradeep1234566/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
