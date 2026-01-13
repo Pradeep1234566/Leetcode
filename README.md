@@ -77,6 +77,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pradeep1234566/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/Pradeep1234566/Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Pradeep1234566/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [3453-separate-squares-i](https://github.com/Pradeep1234566/Leetcode/tree/master/3453-separate-squares-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pradeep1234566/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
@@ -489,6 +490,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0300-longest-increasing-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0875-koko-eating-bananas](https://github.com/Pradeep1234566/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3453-separate-squares-i](https://github.com/Pradeep1234566/Leetcode/tree/master/3453-separate-squares-i) |
 ## Union Find
 |  |
 | ------- |
