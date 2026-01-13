@@ -1,20 +1,23 @@
-class Solution(object):
-    def helper(self, root, answer):
-        if root is None:
-            return 0
-        
-        # if the value goes less than zero we drop that
-        left_sum = max(0, self.helper(root.left, answer))
-        right_sum = max(0, self.helper(root.right, answer))
+# Definition for a binary tree node.
+# class TreeNode(object):
+#     def __init__(self, val=0, left=None, right=None):
+#         self.val = val
+#         self.left = left
+#         self.right = right
 
-        # max path through current node
-        total_sum = root.val + left_sum + right_sum
-        answer[0] = max(answer[0], total_sum)
+class Solution:
+    def helper(self, root, ans):
+            if root is None:
+                return 0
+            left_sum = max(0, self.helper(root.left, ans))
+            right_sum = max(0, self.helper(root.right, ans))
 
-        # return best path going UP
-        return root.val + max(left_sum, right_sum)
+            ans[0] = max(ans[0], root.val + left_sum + right_sum)
+
+            return root.val + max(left_sum, right_sum)
 
     def maxPathSum(self, root):
+        #your code goes here
         answer = [float('-inf')]
         self.helper(root, answer)
         return answer[0]
