@@ -6,18 +6,14 @@ class Solution(object):
         :rtype: List[int]
         
         """
-
-
-        indexs = {}
+        index = {}
         n = len(nums)
 
         for i in range(n):
             difference = target - nums[i]
 
-            if difference in indexs:
-                return [indexs[difference], i]
+            if difference in index:
+                return [index[difference], i]
             
             else:
-                indexs[nums[i]] = i
-
-    
+                index[nums[i]] = i
