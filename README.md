@@ -7,6 +7,7 @@ This Repository contains LEETCODE solved Problems in  python
 | ------- |
 | [0001-two-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Pradeep1234566/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0016-3sum-closest](https://github.com/Pradeep1234566/Leetcode/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeep1234566/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0027-remove-element) |
@@ -110,6 +111,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pradeep1234566/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Pradeep1234566/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Pradeep1234566/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/Pradeep1234566/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pradeep1234566/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pradeep1234566/Leetcode/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Pradeep1234566/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
@@ -553,4 +555,8 @@ This Repository contains LEETCODE solved Problems in  python
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Pradeep1234566/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Pradeep1234566/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
