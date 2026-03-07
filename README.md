@@ -26,6 +26,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0064-minimum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Pradeep1234566/Leetcode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Pradeep1234566/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Pradeep1234566/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Pradeep1234566/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Pradeep1234566/Leetcode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -159,6 +160,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeep1234566/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Pradeep1234566/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Pradeep1234566/Leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0143-reorder-list](https://github.com/Pradeep1234566/Leetcode/tree/master/0143-reorder-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pradeep1234566/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -368,6 +370,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0016-3sum-closest](https://github.com/Pradeep1234566/Leetcode/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/Pradeep1234566/Leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Pradeep1234566/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Pradeep1234566/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0645-set-mismatch](https://github.com/Pradeep1234566/Leetcode/tree/master/0645-set-mismatch) |
