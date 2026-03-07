@@ -4,13 +4,22 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        maxProf = 0
-        minimum_price = float('inf')
-        N = len(nums)
+        maxProfit = 0
+        n = len(nums)
+        difference = 0
 
-
-        for i in range(N):
-            minimum_price = min(minimum_price, nums[i])
-            maxProf = max(maxProf, nums[i] - minimum_price)
+        for i in range(n):
+            if i == 0:
+                buying = nums[i]
+            
+            else:
+                difference = nums[i] - buying
+                maxProfit = max(maxProfit, difference)
+                
+                buying = min(buying, nums[i])
         
-        return maxProf
+        return maxProfit
+
+            
+
+        
