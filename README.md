@@ -72,6 +72,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Pradeep1234566/Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Pradeep1234566/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/Pradeep1234566/Leetcode/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1929-concatenation-of-array](https://github.com/Pradeep1234566/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -178,6 +179,7 @@ This Repository contains LEETCODE solved Problems in  python
 |  |
 | ------- |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Pradeep1234566/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Pradeep1234566/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Pradeep1234566/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -202,6 +204,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0326-power-of-three](https://github.com/Pradeep1234566/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Pradeep1234566/Leetcode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Pradeep1234566/Leetcode/tree/master/0390-elimination-game) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Tree
 |  |
 | ------- |
@@ -354,6 +357,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [1266-minimum-time-visiting-all-points](https://github.com/Pradeep1234566/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Pradeep1234566/Leetcode/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/Pradeep1234566/Leetcode/tree/master/1448-maximum-69-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Pradeep1234566/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Bit Manipulation
 |  |
@@ -565,4 +569,8 @@ This Repository contains LEETCODE solved Problems in  python
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Pradeep1234566/Leetcode/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
