@@ -4,23 +4,18 @@ class Solution(object):
         :type nums: List[int]
         :rtype: None Do not return anything, modify nums in-place instead.
         """
+
+        i = 0
         n = len(nums)
-        first_index = None
-        
-        # Find the first zero in the array
+
         for i in range(n):
             if nums[i] == 0:
-                first_index = i
                 break
         
-        # If no zero is found, the array is already in the correct form
-        if first_index is None:
+        if i == n-1:
             return nums
-        
-        # Move non-zero elements to the left
-        for i in range(first_index + 1, n):
-            if nums[i] != 0:
-                nums[i], nums[first_index] = nums[first_index], nums[i]
-                first_index += 1
-        
-        return nums
+
+        for j in range(n):
+            if nums[j] != 0 and j > i:
+                nums[i], nums[j] = nums[j], nums[i]
+                i += 1
