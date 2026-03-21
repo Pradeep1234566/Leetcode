@@ -22,6 +22,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0048-rotate-image](https://github.com/Pradeep1234566/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Pradeep1234566/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Pradeep1234566/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Pradeep1234566/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -182,6 +183,7 @@ This Repository contains LEETCODE solved Problems in  python
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/0054-spiral-matrix) |
 | [1657-find-the-winner-of-an-array-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1657-find-the-winner-of-an-array-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/Pradeep1234566/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -460,6 +462,7 @@ This Repository contains LEETCODE solved Problems in  python
 | ------- |
 | [0036-valid-sudoku](https://github.com/Pradeep1234566/Leetcode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Pradeep1234566/Leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Pradeep1234566/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Pradeep1234566/Leetcode/tree/master/0073-set-matrix-zeroes) |
