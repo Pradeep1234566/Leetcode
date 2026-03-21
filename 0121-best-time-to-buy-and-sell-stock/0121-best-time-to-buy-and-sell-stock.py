@@ -4,9 +4,9 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        maxProfit = 0
-        n = len(nums)
+        maxi = 0
         difference = 0
+        n = len(nums)
 
         for i in range(n):
             if i == 0:
@@ -14,12 +14,7 @@ class Solution(object):
             
             else:
                 difference = nums[i] - buying
-                maxProfit = max(maxProfit, difference)
-                
+                maxi = max(maxi, difference)
                 buying = min(buying, nums[i])
         
-        return maxProfit
-
-            
-
-        
+        return maxi
