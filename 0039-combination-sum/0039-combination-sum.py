@@ -1,22 +1,27 @@
 class Solution(object):
-    def helper(self, index, N, candidates, temp, result, target):
-        # Base condition
+    def helper(self, candidates, target, index, n, result, temp):
         if target == 0:
-            result.append(list(temp))
-            return
-        if index == N:
-            return
+            result.append(temp[:])
+            return 
         
-        # Include current element if it's <= target
+        if index == n:
+            return 
+
         if candidates[index] <= target:
             temp.append(candidates[index])
-            self.helper(index, N, candidates, temp, result, target - candidates[index])
+            self.helper(candidates, target-candidates[index], index, n, result, temp)
             temp.pop()
         
-        # Exclude current element
-        self.helper(index + 1, N, candidates, temp, result, target)
+        self.helper(candidates, target, index+1, n, result, temp)
+
 
     def combinationSum(self, candidates, target):
         result = []
-        self.helper(0, len(candidates), candidates, [], result, target)
+        temp = []
+        n = len(candidates)
+        index = 0
+        
+        
+        self.helper( candidates, target,  index, n, result, temp)
+
         return result
