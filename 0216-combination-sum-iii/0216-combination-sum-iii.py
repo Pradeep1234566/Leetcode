@@ -1,24 +1,24 @@
 class Solution(object):
-    def helper(self, start, k, n, arr, result, temp, N):
-        if len(temp) == k:
+    def helper(self, index, k, n, nums, temp, result):
+        if k == 0:
             if n == 0:
-                result.append(list(temp))
+                result.append(temp[:])
             return
         
-        for i in range(start, N):
-            if arr[i] > n:  # pruning
-                break
-            temp.append(arr[i])
-            self.helper(i + 1, k, n - arr[i], arr, result, temp, N)
+        if index == len(nums):
+            return
+
+        if nums[index] <= n:
+            temp.append(nums[index])
+            self.helper(index + 1, k - 1, n - nums[index], nums, temp, result)
             temp.pop()
 
+        self.helper(index + 1, k, n, nums, temp, result)
+
+
     def combinationSum3(self, k, n):
-        """
-        :type k: int
-        :type n: int
-        :rtype: List[List[int]]
-        """
-        arr = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+        nums = [1,2,3,4,5,6,7,8,9]
         result = []
-        self.helper(0, k, n, arr, result, [], len(arr))
+        temp = []
+        self.helper(0, k, n, nums, temp, result)
         return result
