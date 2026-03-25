@@ -6,14 +6,15 @@ class Solution(object):
         :rtype: List[int]
         
         """
-        index = {}
+
+        dictio = {}
+    
         n = len(nums)
-
         for i in range(n):
-            difference = target - nums[i]
-
-            if difference in index:
-                return [index[difference], i]
-            
+            difference = target - nums[i] 
+            if difference in dictio:
+                return [dictio[difference], i]
             else:
-                index[nums[i]] = i
+                dictio[nums[i]] = i
+
+        
