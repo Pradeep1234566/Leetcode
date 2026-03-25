@@ -97,6 +97,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0073-set-matrix-zeroes](https://github.com/Pradeep1234566/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Pradeep1234566/Leetcode/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pradeep1234566/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pradeep1234566/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Pradeep1234566/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Pradeep1234566/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -130,6 +131,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0127-word-ladder](https://github.com/Pradeep1234566/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Pradeep1234566/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Pradeep1234566/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pradeep1234566/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pradeep1234566/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/Pradeep1234566/Leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -157,6 +159,7 @@ This Repository contains LEETCODE solved Problems in  python
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pradeep1234566/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/Pradeep1234566/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 ## Two Pointers
 |  |
@@ -582,5 +585,6 @@ This Repository contains LEETCODE solved Problems in  python
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pradeep1234566/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Pradeep1234566/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
