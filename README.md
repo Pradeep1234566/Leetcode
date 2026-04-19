@@ -593,4 +593,12 @@ This Repository contains LEETCODE solved Problems in  python
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pradeep1234566/Leetcode/tree/master/0070-climbing-stairs) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Pradeep1234566/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Pradeep1234566/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
