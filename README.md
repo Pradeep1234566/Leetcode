@@ -12,6 +12,7 @@ This Repository contains LEETCODE solved Problems in  python
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Pradeep1234566/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Pradeep1234566/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Pradeep1234566/Leetcode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Pradeep1234566/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Pradeep1234566/Leetcode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Pradeep1234566/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0040-combination-sum-ii) |
@@ -519,6 +520,7 @@ This Repository contains LEETCODE solved Problems in  python
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Pradeep1234566/Leetcode/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Pradeep1234566/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Pradeep1234566/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/Pradeep1234566/Leetcode/tree/master/0300-longest-increasing-subsequence) |
