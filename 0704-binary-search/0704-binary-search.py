@@ -1,16 +1,25 @@
 class Solution(object):
     def search(self, nums, target):
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: int
+        """
         low = 0
         high = len(nums) - 1
-        
+        mid = -1
+
         while low <= high:
-            mid = low + (high - low) // 2  # Using integer division
+            mid = (low+high)//2 
+
+            if nums[mid] < target:
+                low = mid + 1
             
-            if nums[mid] == target:
-                return mid
-            elif nums[mid] < target:
-                low = mid + 1  # Search in the right half
+            elif nums[mid] > target:
+                high = mid - 1
+            
             else:
-                high = mid - 1  # Search in the left half
-        
+                return mid
+    
         return -1
+        
