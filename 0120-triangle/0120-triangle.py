@@ -1,13 +1,19 @@
 class Solution:
+    def helper(self, triangle, row, ir, ic, dp):
+        if ir == row - 1:
+            return triangle[ir][ic]
+
+        if (ir, ic) in dp:
+            return dp[(ir, ic)]
+
+        down = self.helper(triangle, row, ir + 1, ic, dp)
+        diagonal = self.helper(triangle, row, ir + 1, ic + 1, dp)
+
+        dp[(ir, ic)] = triangle[ir][ic] + min(down, diagonal)
+
+        return dp[(ir, ic)]
+
     def minimumTotal(self, triangle):
-        n = len(triangle)
-
-        # dp same shape as triangle
-        dp = [row[:] for row in triangle]
-
-        # start from second last row
-        for i in range(n - 2, -1, -1):
-            for j in range(i + 1):
-                dp[i][j] = triangle[i][j] + min(dp[i + 1][j], dp[i + 1][j + 1])
-
-        return dp[0][0]
+        row = len(triangle)
+        dp = {}
+        return self.helper(triangle, row, 0, 0, dp)
