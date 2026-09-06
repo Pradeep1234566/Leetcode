@@ -1,22 +1,23 @@
 class Solution(object):
-    def helper(self, s, t, n, m, dp):
-        if m == 0:
+    def helper(self, s, t, i, j, dp):
+        if i == len(t):
             return 1
-        if n == 0:
+        if j == len(s):
             return 0
         
-        if dp[n][m] != -1:
-            return dp[n][m]
+        if (i, j) in dp:
+            return dp[(i,j)]
+
         
-        if s[n-1] == t[m-1]:
-            include = self.helper(s,t,n-1,m-1,dp)
-            exclude = self.helper(s,t,n-1,m,dp)
-            dp[n][m] = include + exclude
+        if s[j] == t[i]:
+            include = self.helper(s,t,i+1,j+1,dp)
+            exclude = self.helper(s,t,i,j+1,dp)
+            dp[(i,j)] = include + exclude
         
         else:
-            dp[n][m] = self.helper(s,t,n-1,m,dp)
+            dp[(i,j)] = self.helper(s,t,i,j+1,dp)
         
-        return dp[n][m]
+        return dp[(i,j)]
 
     def numDistinct(self, s, t):
         """
@@ -26,7 +27,8 @@ class Solution(object):
         """
         n = len(s)
         m = len(t)
+        i = 0
+        j = 0
+        dp = {}
 
-        dp = [[-1]*(m+1) for _ in range(n+1)]
-
-        return self.helper(s,t,n,m,dp)
+        return self.helper(s,t,i,j,dp)
